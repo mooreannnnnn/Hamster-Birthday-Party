@@ -1,0 +1,52 @@
+@charset "UTF-8";
+body{
+	padding: 0;
+	margin: 0;
+}
+
+img {position: absolute;} 
+
+.hat1{
+	left: 232px;
+	top: 617px;
+}
+
+.link1{
+	left:1457px;
+	top:762px;
+	opacity:0;
+}
+
+.candle1{
+	left:905px;
+	top:488px;
+}
+
+.movin {
+    position: absolute;
+	left:50px;
+	top: 100px;
+}
+
+.link2b{
+	left:710px;
+	top:250px;
+	opacity:0;
+}
+
+.link3{
+	left:552px;
+	top:272px;
+	opacity:0;
+}
+.link3b{
+	left:1050px;
+	top:650px;
+	opacity:0;
+}
+
+.link4{
+	left:250px;
+	top:468px;
+	opacity:0;
+}
